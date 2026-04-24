@@ -3187,12 +3187,10 @@
         "tradeRequest": "Trade nourishes the roots of peace. Come, let us prosper through wisdom, not war.",
         "outerColor": [21,34,78],
         "innerColor": [255,233,142],
-        "uniqueName": "The Way of Chumaks",
+        "uniqueName": "Population Growth",
         "uniques": [
-            "[+1 Food] from every [Maize] <after discovering [The Wheel]>",
-            "[+1 Food] from every [Wheat] <after discovering [The Wheel]>",
-            "[+1 Food] from every [Salt] <after discovering [The Wheel]>",
-            "[+2 Gold] from each Trade Route"
+            "[+100]% unhappiness from the number of cities",
+            "[-50]% Unhappiness from [Population] [in all cities]"
         ],
         "cities": [
             "Kiev","Kharkiv","Odessa","Dnipropetrovsk","Donetsk","Luhansk","Zhytomyr","Lviv","Kryvyi Rih","Chernihiv",
