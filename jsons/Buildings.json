@@ -1953,7 +1953,7 @@
         "name": "Grand Canal of Venice",
         "uniqueTo": "Ukraine",
         "replaces": "East India Company",
-        "cost": 125,
+        "cost": 130,
         "gold": 4,
         "percentStatBonus": {"gold": 25},
         "isNationalWonder": true,
