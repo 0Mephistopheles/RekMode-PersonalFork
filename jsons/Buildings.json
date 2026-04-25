@@ -1688,18 +1688,17 @@
         "requiredTech": "Currency"
     },
     {
-        "name": "Grand Canal of Dnipro",
+        "name": "Knyaz Court",
+        "replaces": "Market",
         "uniqueTo": "Ukraine",
-        "replaces": "East India Company",
-        "cost": 125,
-        "gold": 4,
+        "gold": 2,
+        "specialistSlots": {"Merchant": 1},
+        "hurryCostModifier": 25,
         "percentStatBonus": {"gold": 25},
-        "isNationalWonder": true,
         "uniques": [
-            "Cost increases by [30] per owned city",
-            "Provides [2] [Trade Route]",
-            "[+4 Gold] from [Land Trade Route (Gold)] tiles [in this city]",
-            "[+4 Gold] from [Sea Trade Route (Gold)] tiles [in this city]"
+            "Gain [20] [Gold] <upon expending a [Great Person] unit>",
+            "[+1 Gold] from [Land Trade Route (Gold)] tiles [in this city]",
+            "[+1 Gold] from [Sea Trade Route (Gold)] tiles [in this city]"
         ],
         "requiredTech": "Currency"
     },
@@ -1952,7 +1951,7 @@
     },
     {
         "name": "Grand Canal of Venice",
-        "uniqueTo": "Venice",
+        "uniqueTo": "Ukraine",
         "replaces": "East India Company",
         "cost": 125,
         "gold": 4,
