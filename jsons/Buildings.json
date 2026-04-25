@@ -1951,9 +1951,9 @@
     },
     {
         "name": "Grand Canal of Venice",
-        "uniqueTo": "Ukraine",
+        "uniqueTo": "Venice",
         "replaces": "East India Company",
-        "cost": 130,
+        "cost": 125,
         "gold": 4,
         "percentStatBonus": {"gold": 25},
         "isNationalWonder": true,
@@ -1963,7 +1963,7 @@
             "[+4 Gold] from [Land Trade Route (Gold)] tiles [in this city]",
             "[+4 Gold] from [Sea Trade Route (Gold)] tiles [in this city]"
         ],
-        "requiredTech": "Agriculture"
+        "requiredTech": "Currency"
     },
     {
         "name": "Artist Guild",
