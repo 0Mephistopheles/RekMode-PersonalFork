@@ -1690,7 +1690,7 @@
     {
         "name": "Knyaz Court",
         "replaces": "Market",
-        "uniqueTo": "Venice",
+        "uniqueTo": "Ukraine",
         "gold": 2,
         "specialistSlots": {"Merchant": 1},
         "hurryCostModifier": 25,
@@ -1951,7 +1951,7 @@
     },
     {
         "name": "Grand Canal of Venice",
-        "uniqueTo": ["Ukraine","Venice"],
+        "uniqueTo": "Venice",
         "replaces": "East India Company",
         "cost": 125,
         "gold": 4,
@@ -3748,5 +3748,22 @@
             "Only available <when [Cultural] Victory is enabled>",
             "Cannot be hurried"
         ]
+    },
+	//Modified Uniquneses
+    {
+        "name": "Grand Dnipro Canal",
+        "uniqueTo": "Ukraine",
+        "replaces": "East India Company",
+        "cost": 125,
+        "gold": 4,
+        "percentStatBonus": {"gold": 25},
+        "isNationalWonder": true,
+        "uniques": [
+            "Cost increases by [30] per owned city",
+            "Provides [2] [Trade Route]",
+            "[+4 Gold] from [Land Trade Route (Gold)] tiles [in this city]",
+            "[+4 Gold] from [Sea Trade Route (Gold)] tiles [in this city]"
+        ],
+        "requiredTech": "Currency"
     }
 ]
