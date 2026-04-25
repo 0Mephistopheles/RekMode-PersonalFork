@@ -1950,8 +1950,8 @@
         "requiredTech": "Guilds"
     },
     {
-        "name": "Grand Canal of Venice",
-        "uniqueTo": "Venice",
+        "name": "Grand Canal of Ukraine",
+        "uniqueTo": "Ukraine",
         "replaces": "East India Company",
         "cost": 125,
         "gold": 4,
