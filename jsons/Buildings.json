@@ -1690,7 +1690,7 @@
     {
         "name": "Knyaz Court",
         "replaces": "Market",
-        "uniqueTo": "Ukraine",
+        "uniqueTo": "Venice",
         "gold": 2,
         "specialistSlots": {"Merchant": 1},
         "hurryCostModifier": 25,
